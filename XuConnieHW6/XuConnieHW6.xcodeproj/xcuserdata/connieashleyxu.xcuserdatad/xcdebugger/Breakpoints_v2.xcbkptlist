@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "81A1ECB8-6A12-4C2D-BD40-1E4DD4F2118E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA34B66E-F13B-4148-B347-7FDFA080F2FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XuConneHW5/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DA34B66E-F13B-4148-B347-7FDFA080F2FC - 63ebd2ca7f80d859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XuConneHW5.ViewController.messageLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "XuConneHW5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connieashleyxu/Downloads/ITP342/XuConnieHW6/XuConneHW5/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "DA34B66E-F13B-4148-B347-7FDFA080F2FC - e483635c048adc65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XuConneHW5.ViewController.messageLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "XuConneHW5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connieashleyxu/Downloads/ITP342/XuConnieHW6/XuConneHW5/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "DA34B66E-F13B-4148-B347-7FDFA080F2FC - 681171d9981e55b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XuConneHW5.ViewController.messageLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "XuConneHW5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connieashleyxu/Downloads/ITP342/XuConnieHW6/XuConneHW5/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "DA34B66E-F13B-4148-B347-7FDFA080F2FC - e14d0224bd44a03b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XuConneHW5.ViewController.messageLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "XuConneHW5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connieashleyxu/Downloads/ITP342/XuConnieHW6/XuConneHW5/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "DA34B66E-F13B-4148-B347-7FDFA080F2FC - 186279b49f3f0b0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XuConneHW5.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; XuConneHW5.ViewController"
+                  moduleName = "XuConneHW5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connieashleyxu/Downloads/ITP342/XuConnieHW6/XuConneHW5/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "DA34B66E-F13B-4148-B347-7FDFA080F2FC - eb23b9d62357b39d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XuConneHW5.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;XuConneHW5.ViewController&gt;"
+                  moduleName = "XuConneHW5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connieashleyxu/Downloads/ITP342/XuConnieHW6/XuConneHW5/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "111">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC33B3A8-3B59-4C11-86C5-979B1AF88A4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XuConneHW5/Controller/QuestionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "tapDidRecognized(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58E6A3CA-AE14-4752-B387-CDE513DD9744"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XuConneHW5/Model/Flashcard.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "Flashcard"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFE21F89-E053-479B-BE91-B450AF2931E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XuConneHW5/Model/FlashcardsModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "nextFlashcard()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "709D4BA9-4A48-432D-AF3B-3E4A435F7B82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XuConneHW5/Model/FlashcardsModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "previousFlashcard()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
